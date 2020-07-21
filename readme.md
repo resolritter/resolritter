@@ -1,1 +1,14 @@
-Hello, world!
+**React-related**
+
+- **Templates**: [TS + React](https://github.com/resolritter/react-ts-starter), [JS + React](https://github.com/resolritter/react-js-starter), [TS + React-Native](https://github.com/resolritter/starter-ts-react-native)
+- **Demos**: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
+
+**Front-end related**
+
+- [hooker](https://github.com/resolritter/hooker): Framework-agnostic implementation of component hooks 
+
+**Misc**
+
+- **Python**: [Scraper with Spider and Django](https://github.com/resolritter/webscraper-news-portal) 
+- **Java**: [Complex data structures in Java](https://github.com/resolritter/DS-Java), [Dijkstra's shortest path graph algorithm](https://github.com/resolritter/Shortest-Path-Dijkstra/tree/master/LabirintoGrafos)
+- **Misc**: [Clojure code challenges](https://github.com/resolritter/clojure), [Reduced Adventure (Atari game) implementation in Assembly](https://github.com/resolritter/MIPS-Mars-Game)
