@@ -1,6 +1,6 @@
 **React-related**
 
-- **Templates**: [TS + React](https://github.com/resolritter/react-ts-starter), [JS + React](https://github.com/resolritter/react-js-starter), [TS + React-Native](https://github.com/resolritter/starter-ts-react-native)
+- **Templates**: [TS + React](https://github.com/resolritter/react-ts-starter), [JS + React](https://github.com/resolritter/react-js-starter), [TS + React-Native](https://github.com/resolritter/ts-react-native-starter), [SCSS + JS + React](https://github.com/resolritter/js-react-scss-starter)
 - **Demos**: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
 
 **Front-end related**
