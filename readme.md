@@ -7,7 +7,11 @@
 
 **Front-end related**
 
-- [hooker](https://github.com/resolritter/hooker): Framework-agnostic implementation of component hooks 
+- [hooker](https://github.com/resolritter/hooker): Framework-agnostic implementation of component hooks
+
+**JS/TS related**
+
+- [res_ts](https://github.com/resolritter/res_ts): General TypeScript tooling for JS/TS projects
 
 **Misc**
 
