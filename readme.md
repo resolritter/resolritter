@@ -12,6 +12,6 @@
 
 **Other**
 
-- **Miscellaneous**: [Various scripts](https://github.com/resolritter/sscripts), [Clojure code challenges](https://github.com/resolritter/clojure), [Reduced Adventure (Atari game) implementation in Assembly](https://github.com/resolritter/MIPS-Mars-Game)
+- **Miscellaneous**: [Various scripts](https://github.com/resolritter/sscripts), [Competitive programming solutions](https://github.com/resolritter/competitive-programming), [Reduced Adventure (Atari game) implementation in Assembly](https://github.com/resolritter/MIPS-Mars-Game)
 - **Python**: [Scraper with Scrapy and Django](https://github.com/resolritter/webscraper-news-portal) 
 - **Java**: [Complex data structures in Java](https://github.com/resolritter/DS-Java), [Dijkstra's shortest path graph algorithm](https://github.com/resolritter/Shortest-Path-Dijkstra/tree/master/LabirintoGrafos)
