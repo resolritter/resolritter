@@ -5,9 +5,6 @@
 - **Starter kits**: [TS + React](https://github.com/resolritter/react-ts-starter), [JS + React](https://github.com/resolritter/react-js-starter), [TS + React-Native](https://github.com/resolritter/ts-react-native-starter), [SCSS + JS + React](https://github.com/resolritter/js-react-scss-starter)
 - **Demos**: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
 - [hooker](https://github.com/resolritter/hooker): Framework-agnostic implementation of component hooks
-
-**JS/TS related**
-
 - [res_ts](https://github.com/resolritter/res_ts): General TypeScript tooling for JS/TS projects
 
 **Other**
