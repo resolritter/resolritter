@@ -7,7 +7,6 @@
 - [res_ts](https://github.com/resolritter/res_ts): TypeScript tooling for JS/TS projects
 - Starter kits: [JS + React](https://github.com/resolritter/react-js-starter), [JS + React-Native](https://github.com/resolritter/react-native-js-starter), [TS + React](https://github.com/resolritter/react-ts-starter), [TS + React-Native](https://github.com/resolritter/ts-react-native-starter)
 - Demos: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
-- Maitenance: [react-step-wizard](https://github.com/jcmcneal/react-step-wizard)
 
 **Other**
 
