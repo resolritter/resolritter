@@ -1,4 +1,4 @@
-[**Personal website**](https://resolritter.now.sh) • [**CV**](https://resolritter.now.sh/cv)
+[**Personal website**](https://resolritter.vercel.app) • [**CV**](https://resolritter.vercel.app/cv)
 
 **Web-related**
 
