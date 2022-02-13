@@ -5,7 +5,7 @@
 - [library](https://github.com/resolritter/library): Proof-of-concept implementation of a web application showcasing an actor system in Rust
 - [hooker](https://github.com/resolritter/hooker): Framework-agnostic implementation of component hooks
 - Tooling: [tools](https://github.com/resolritter/tools), [port_acquisition_server](https://github.com/resolritter/port_acquisition_server)
-- Starter kits: [Koa + Knex](https://github.com/resolritter/koa-knex-starter), [JS + React](https://github.com/resolritter/react-js-starter), [JS + React-Native](https://github.com/resolritter/react-native-js-starter), [TS + React](https://github.com/resolritter/react-ts-starter), [TS + React-Native](https://github.com/resolritter/ts-react-native-starter)
+- Starter kits: [TS + React-Native](https://github.com/resolritter/ts-react-native-starter), [TS + React](https://github.com/resolritter/react-ts-starter), [Koa + Knex](https://github.com/resolritter/koa-knex-starter)
 - Experiments: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
 
 **Other**
