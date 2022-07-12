@@ -7,11 +7,8 @@
 - Starter kits: [TS + React-Native](https://github.com/resolritter/ts-react-native-starter), [TS + React](https://github.com/resolritter/react-ts-starter), 
 [ts-template](https://github.com/resolritter/ts-template), [js-style](https://github.com/resolritter/js-style)
 - Experiments: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
-
-**Misc**
-
-- Rust: [structout](https://github.com/resolritter/structout)
 - JS: [str_similarity_ranker](https://github.com/resolritter/str_similarity_ranker), [competitive programming solutions](https://github.com/resolritter/algorithms/tree/master/js)
-- C: [click-detector](https://github.com/resolritter/click-detector)
-- Assembly: [Reduced Adventure (Atari game) implementation in MIPS](https://github.com/resolritter/MIPS-Mars-Game)
-- Python: [Self-contained scraper with Scrapy and Django](https://github.com/resolritter/webscraper-news-portal) 
+- C:  [wpid-by-wid](https://github.com/resolritter/wpid-by-wid), [click-detector](https://github.com/resolritter/click-detector)
+- Rust: [structout](https://github.com/resolritter/structout)
+- Assembly: [Reduced Adventure (Atari game) implementation in MIPS ASM](https://github.com/resolritter/MIPS-Mars-Game)
+- Python: [Self-contained scraper with Scrapy and Django](https://github.com/resolritter/webscraper-news-portal)
