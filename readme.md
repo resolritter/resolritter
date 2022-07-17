@@ -7,7 +7,7 @@
 - Starter kits: [TS + React-Native](https://github.com/resolritter/ts-react-native-starter), [TS + React](https://github.com/resolritter/react-ts-starter), 
 [ts-template](https://github.com/resolritter/ts-template), [js-style](https://github.com/resolritter/js-style)
 - Experiments: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
-- [algorithms](https://github.com/resolritter/algorithms): solutions for coding challenges
+- [Solutions for coding challenges](https://github.com/resolritter/algorithms)
 - JS: [str_similarity_ranker](https://github.com/resolritter/str_similarity_ranker)
 - C:  [wpid-by-wid](https://github.com/resolritter/wpid-by-wid), [click-detector](https://github.com/resolritter/click-detector)
 - Rust: [structout](https://github.com/resolritter/structout)
