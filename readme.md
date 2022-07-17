@@ -3,7 +3,7 @@
 **Highlights**
 
 - [library](https://github.com/resolritter/library): Proof-of-concept implementation of a full-stack application showcasing an actor system in Rust
-- [hooker](https://github.com/resolritter/hooker): Framework-agnostic implementation of component hooks
+- [cmphook](https://github.com/resolritter/cmphook): Framework-agnostic implementation of UI component hooks
 - Starter kits: [TS + React-Native](https://github.com/resolritter/ts-react-native-starter), [TS + React](https://github.com/resolritter/react-ts-starter), 
 [ts-template](https://github.com/resolritter/ts-template), [js-style](https://github.com/resolritter/js-style)
 - Experiments: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
