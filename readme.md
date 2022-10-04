@@ -1,6 +1,6 @@
 [**Personal website**](https://resolritter.vercel.app) • [**CV**](https://resolritter.vercel.app/cv)
 
-**Highlights**
+**Projects showcase**:
 
 - [library](https://github.com/resolritter/library): Proof-of-concept implementation of a full-stack application showcasing an actor system in Rust
 - [cmphook](https://github.com/resolritter/cmphook): Library-agnostic implementation of UI component hooks
