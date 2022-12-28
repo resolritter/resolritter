@@ -1,15 +1,15 @@
 [**Personal website**](https://resolritter.vercel.app) • [**CV**](https://resolritter.vercel.app/cv)
 
-**Projects showcase**:
+**Projects**:
 
 - [library](https://github.com/resolritter/library): Proof-of-concept implementation of a full-stack application showcasing an actor system in Rust
 - [cmphook](https://github.com/resolritter/cmphook): Library-agnostic implementation of UI component hooks
-- Starter kits: [TS + React-Native](https://github.com/resolritter/ts-react-native-starter), [TS + React](https://github.com/resolritter/react-ts-starter), 
-[ts-template](https://github.com/resolritter/ts-template), [js-style](https://github.com/resolritter/js-style)
+-  [js-style](https://github.com/resolritter/js-style): Curated set of linting and typechecking rules for JS and TS projects
+- Templates:  [Three.js](https://github.com/resolritter/threejs-template), [Phaser 3](https://github.com/resolritter/phaser3-template), [ts-template](https://github.com/resolritter/ts-template), [TS + React](https://github.com/resolritter/react-ts-starter), [TS + React-Native](https://github.com/resolritter/ts-react-native-starter)
 - Experiments: [efficient-formik-demo](https://github.com/resolritter/efficient-formik-demo), [subscribed_props](https://github.com/resolritter/subscribed_props)
-- [Solutions for coding challenges](https://github.com/resolritter/algorithms)
-- JS: [str_similarity_ranker](https://github.com/resolritter/str_similarity_ranker)
+- [algorithms](https://github.com/resolritter/algorithms): Solutions for coding challenges
 - C:  [wpid-by-wid](https://github.com/resolritter/wpid-by-wid), [click-detector](https://github.com/resolritter/click-detector)
 - Rust: [structout](https://github.com/resolritter/structout)
+- JS: [str_similarity_ranker](https://github.com/resolritter/str_similarity_ranker)
 - Assembly: [Reduced Adventure (Atari game) implementation in MIPS ASM](https://github.com/resolritter/MIPS-Mars-Game)
 - Python: [Self-contained scraper with Scrapy and Django](https://github.com/resolritter/webscraper-news-portal)
