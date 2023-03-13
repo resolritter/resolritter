@@ -1,4 +1,6 @@
-[**Personal website**](https://resolritter.vercel.app) • [**CV**](https://resolritter.vercel.app/cv)
+**Personal website**: https://resolritter.vercel.app
+
+**CV**: https://resolritter.vercel.app/cv
 
 **Projects**:
 
