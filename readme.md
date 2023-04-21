@@ -2,7 +2,7 @@
 
 **CV**: https://resolritter.vercel.app/cv
 
-**Projects**:
+**Personal projects**:
 
 - [library](https://github.com/resolritter/library): Proof-of-concept implementation of a full-stack application showcasing an actor system in Rust
 - [cmphook](https://github.com/resolritter/cmphook): Library-agnostic implementation of UI component hooks
@@ -10,6 +10,6 @@
 - [algorithms](https://github.com/resolritter/algorithms): Solutions for coding challenges
 - C:  [wpid-by-wid](https://github.com/resolritter/wpid-by-wid), [click-detector](https://github.com/resolritter/click-detector)
 - Rust: [structout](https://github.com/resolritter/structout)
-- JavaScript: [prettier-plugin-compactify](https://github.com/resolritter/prettier-plugin-compactify), [string similarity ranker](https://github.com/resolritter/str_similarity_ranker), [linting and typechecking ruleset for TS/JS](https://github.com/resolritter/js-style)
+- JavaScript: [prettier-plugin-compactify](https://github.com/resolritter/prettier-plugin-compactify), [string similarity ranker](https://github.com/resolritter/str_similarity_ranker), [linting and typechecking ruleset for TS and JS](https://github.com/resolritter/js-style)
 - Assembly: [Reduced Adventure (Atari game) implementation in MIPS ASM](https://github.com/resolritter/MIPS-Mars-Game)
 - Python: [Self-contained scraper with Scrapy and Django](https://github.com/resolritter/webscraper-news-portal)
