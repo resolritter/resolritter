@@ -2,6 +2,8 @@
 
 **CV**: https://resolritter.vercel.app/cv
 
+**Past contributions**: Mostly fixes or improvements for tools I am (or was) interested in. Tree-sitter grammars ([1](https://github.com/pulls?q=is%3Apr+author%3Aresolritter+is%3Aclosed+user%3Atree-sitter+), [2](https://github.com/maxxnino/tree-sitter-zig/pulls/resolritter), [3](https://github.com/alex-pinkus/tree-sitter-swift/pull/150)), [Docker CI](https://github.com/AppFlowy-IO/AppFlowy/pull/2162), QT/C++ ([1](https://github.com/Nheko-Reborn/nheko/pull/696), [2](https://github.com/Nheko-Reborn/nheko/pull/691)), C ([1](https://github.com/zorgnax/les/pull/1), [2](https://github.com/neovim/neovim/pull/19217), [3](https://github.com/neovim/neovim/pull/18867)), React ([1](https://github.com/jcmcneal/react-step-wizard/pull/76), [2](https://github.com/jcmcneal/react-step-wizard/pull/70), [3](https://github.com/final-form/final-form/pull/348)), [Vue.js](https://github.com/Splode/pomotroid/pull/105/files), [Python](https://github.com/rr-/drill/pull/11/files).
+
 **Personal projects**:
 
 - [library](https://github.com/resolritter/library): Proof-of-concept implementation of a full-stack application showcasing an actor system in Rust
