@@ -6,8 +6,8 @@
 
 **Personal projects**:
 
-- [library](https://github.com/resolritter/library): Proof-of-concept implementation of a full-stack application showcasing an actor system in Rust
-- [cmphook](https://github.com/resolritter/cmphook): Library-agnostic implementation of UI component hooks
+- [library](https://github.com/resolritter/library#table-of-contents): Proof-of-concept implementation of a full-stack application showcasing an actor system in Rust
+- [cmphook](https://github.com/resolritter/cmphook#introduction): Library-agnostic implementation of UI component hooks
 - Templates:  [Three.js](https://github.com/resolritter/threejs-template), [Phaser 3](https://github.com/resolritter/phaser3-template), [Python](https://github.com/resolritter/py-template), [TypeScript](https://github.com/resolritter/ts-template), [TypeScript + React](https://github.com/resolritter/react-ts-starter), [TypeScript + React-Native](https://github.com/resolritter/ts-react-native-starter)
 - [algorithms](https://github.com/resolritter/algorithms): Solutions for coding challenges
 - C:  [wpid-by-wid](https://github.com/resolritter/wpid-by-wid), [click-detector](https://github.com/resolritter/click-detector)
