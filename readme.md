@@ -1,4 +1,4 @@
-[Website](https://resolritter.vercel.app)  •  [CV](https://resolritter.vercel.app/cv)  •  [Blog](https://resolritter.vercel.app/blog)
+[Website](https://resolritter.vercel.app)  •  [Blog](https://resolritter.vercel.app/blog)  •  [CV](https://resolritter.vercel.app/cv)
 
 ---
 
