@@ -1,4 +1,4 @@
-[Website](https://resolritter.vercel.app)  •  [Blog](https://resolritter.vercel.app/blog)  •  [CV](https://resolritter.vercel.app/cv)
+[Website](https://resolritter.vercel.app)  •  [Blog](https://resolritter.vercel.app/blog)  •  [CV](https://resolritter.vercel.app/cv)  •  [Past work profile @ Parity](https://github.com/joao-paulo-parity)
 
 ---
 
